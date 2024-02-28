@@ -49,13 +49,3 @@ ScrollReveal().reveal('.home-content, .heading', {origin: 'top'});
 ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form', {origin: 'bottom'});
 ScrollReveal().reveal('.home-content h1, .about-img', {origin: 'left'});
 ScrollReveal().reveal('.home-content p, .about-content', {origin: 'right'});
-
-
-/* TYPE TEXT ANIMATION */
-var typed = new Typed('.multiple-text', {
-    strings: ["FullStack Webdeveloper", "Competitive Programmer", "Open Source Contributor", "Tech Content Writer", "Game Developer Unity"],
-    typeSpeed: 50,
-    backSpeed: 100,
-    backDelay: 1000,
-    loop: true
-  });

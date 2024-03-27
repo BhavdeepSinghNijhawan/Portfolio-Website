@@ -1,3 +1,5 @@
+/*Author: Bhavdeep Singh Nijhawan*/
+
 /* TOGGLE ICON NAVBAR */
 let menuIcon=document.querySelector('#menu-icon');
 let navbar=document.querySelector('.navbar');
